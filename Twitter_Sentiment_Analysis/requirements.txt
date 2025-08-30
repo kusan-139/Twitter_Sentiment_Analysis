@@ -1,0 +1,15 @@
+beautifulsoup4
+requests
+nltk
+transformers
+python-dotenv
+streamlit
+tensorflow
+torch
+tf-keras
+tweepy
+pandas
+vaderSentiment
+textblob
+matplotlib
+huggingface-hub
