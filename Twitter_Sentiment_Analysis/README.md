@@ -90,4 +90,4 @@ NUM_TWEETS: The number of recent tweets to fetch for analysis (the Twitter API l
 
 **Note** : Please install the "requirements.txt" for all library and packages.
 
-Here first extract the "venv.zip" in same folder then activate it and use it , cause it includes all library and packages if you don't want to create a virtual environment from scratch. It is for best practice.
+
